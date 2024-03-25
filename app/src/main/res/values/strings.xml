@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AniSpark</string>
+    <string name="anispark">AniSpark</string>
+    <string name="quote_will_appear_here">Quote will appear here</string>
+    <string name="generate_quote">Generate Quote</string>
+</resources>

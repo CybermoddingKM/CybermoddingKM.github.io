@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/view_liked_quotes"
+        android:title="View Liked Quotes"/>
+</menu>
