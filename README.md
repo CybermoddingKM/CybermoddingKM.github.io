@@ -42,3 +42,20 @@ An interactive activity in which people can engage with the quote by liking it.
 An option for user settings or preferences that lets users personalize their interaction with the app. 
 
 An overview that displays updated data, like a favorite quotes list showing how the user interacted with the data.
+
+
+
+
+
+                       Version Changelog
+
+Enhancements:
+
+• Modified the quote generation logic in Next_Activity.java to support the new "None" filter option, enabling users to receive a random quote from any anime.
+
+Technical Improvements:
+
+• Improved the parsing logic in Next_Activity.java to ensure accurate extraction of anime titles for the filter dropdown, eliminating the inclusion of character names in the filter options.
+• Added the option to remove liked quotes. 
+• Removed option for commenting and sharing quotes. 
+
